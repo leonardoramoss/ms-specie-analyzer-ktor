@@ -1,0 +1,6 @@
+{
+    "code": "400 BAD_REQUEST",
+    "timestamp": "2020-07-21 21:42:38",
+    "cause": "Analyzer not found for specified specie.",
+    "message": "There are no analyzer for this specie: NOT_IDENTIFIED"
+}

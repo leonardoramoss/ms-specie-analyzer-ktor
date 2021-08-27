@@ -1,0 +1,6 @@
+{
+    "code": "400 BAD_REQUEST",
+    "timestamp": "2020-07-22 09:10:18",
+    "cause": "Stats executor not found",
+    "message": "There are no stats executor configured: RATIO_SIMIAN_HUMAN"
+}

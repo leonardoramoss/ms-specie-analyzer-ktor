@@ -1,0 +1,488 @@
+[
+    {
+        "payload": {
+            "dna": ["ATCGCA", "TCTCCG", "TGGTTG", "CCTTTC", "GTAATC", "ACCACT"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["ATGATC", "ACAATC", "GGCCAA", "ATCGCT", "AAAATT", "TGCGGA"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["GATCGT", "AGTCGT", "ATATAC", "CCTTCC", "GCGTAG", "CGTTAC"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["CTGAGC", "GCACCT", "ACCACT", "GGCCCT", "CGCCTT", "TACGAT"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["CGGAGC", "TATAGG", "TTTTTG", "CTCGAA", "AAGCGG", "ACGACA"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["GGTAGA", "TGATCA", "AAAGTA", "CGGTTC", "AAGCTC", "TTTATC"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["GTTCTG", "ACTAAA", "GTAGAC", "GTTTGA", "AACCAC", "GAAAAC"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["GCAGTT", "CAGCCG", "AGGAGA", "TTGATG", "AGCAGA", "GTAACG"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["TGAGTG", "CCCGTG", "GAGAAC", "TAGTCC", "GTTCTT", "AAAATG"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["TACCCA", "AAACAG", "GCAGTA", "ACTCGG", "GCTGCT", "TGGGGT"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["GGCCGG", "CACCTG", "CCTGTC", "CGGGGG", "TATGGG", "TTCTCT"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["AGGATC", "AAAGTA", "TATCGC", "TAGAGC", "AAGAAA", "CGAACC"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["CTATCA", "ACGAAT", "GACGGT", "AGACGG", "CTAACA", "GCCGAT"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["GCTACC", "TAAGTC", "CATTAC", "GGCCAC", "AAAGGT", "GTCGTT"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["CCTATC", "AAATGC", "TTTGAT", "CGTATC", "CGAACA", "GACTTT"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["GTAGGC", "CGTACG", "TAAAAC", "GGGGAA", "GTCAGA", "CAGCGT"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["TGTGCA", "TAGCAG", "ATAGGT", "TAAGGG", "AGATAA", "TACAGC"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["ACGACC", "CAGGAC", "GCAGAG", "TCAGTC", "ACAGAT", "TACATT"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["CCGGGA", "TGGTGG", "GACAGT", "TGCGGT", "ATTGGT", "GCGGCA"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["TGAAGA", "TAAGGG", "CAGAGA", "CCAACC", "CATAAG", "TTTTAT"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["TATCCG", "AGATAG", "GCTTTT", "CATTCT", "CGGTCT", "AGAAAT"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["TTTTTG", "CCTTTA", "ATCTAC", "ACGGCG", "AGAGGC", "CCAGTA"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["AGTGGA", "GTCTGA", "TGTCTA", "GTCCCT", "GCAGCT", "TTGAGC"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["TCACCC", "AATATG", "ATAACT", "AGCGTC", "TGCTTG", "AGTTGT"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["GATACG", "CACAAG", "GGATGG", "CTAGTA", "GCGCGA", "TGGCGT"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["ACAGTA", "GAGCCT", "AATGCG", "CATAAG", "CATTTG", "TCTAAA"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["CCACAG", "CATGCT", "CCGGGG", "TAGAAT", "CGTCTT", "GGTCGA"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["CAGACC", "TGGGAG", "CTACAA", "GCTGAG", "AACTGT", "AATTGG"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["GTCCTT", "TGCGCG", "TGGCTC", "AAGTTA", "CATCTT", "TTTCGA"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["GCATTG", "CCGTCG", "TCGGGG", "AGCGCA", "ACATAA", "AATTGA"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["AGTGAC", "CTGCTC", "TAAAAT", "GGGGTA", "GAGTAG", "TTCGGC"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["ACCACG", "GCACAA", "AGTTTC", "AGATAG", "ATGGGT", "GACCCC"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["GATAGG", "AGGTCT", "GCTGTA", "CTGAAT", "AATTGC", "CATCGA"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["TTTACC", "ACATTG", "AGAGTA", "AATTGT", "TCAGAG", "CCGTCT"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["AGCTTC", "TTGCAT", "GTTACG", "GCTAGC", "TCCTTC", "CACACG"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["CAGCTG", "CGGTAA", "CCTTGG", "GTAGTG", "TTGACG", "ACACGC"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["AGGGCC", "ACTTAA", "CAGTCG", "ATTCTA", "ACCCCT", "ACGGCC"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["GCCAGT", "TCCCGT", "AAAACT", "GAACCG", "TATGTT", "TGCGCA"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["CGCCTT", "CTTTGG", "CGGTAG", "GCCCTA", "TGAGTT", "CCAGCG"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["CGCTAC", "TTCCAA", "GGCGAT", "GGAAGA", "GAGCGA", "CTGGTT"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["GACTCA", "CGCTTA", "TATTTT", "TCTGGC", "CAGACA", "ATCACC"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["CGGAGT", "CCTGGG", "AACTAA", "CCGCCT", "GAAGCA", "TGTGTA"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["AAAAGT", "GCTCTC", "CTGAAT", "CAATGG", "TTTAAC", "CATATG"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["AACAGA", "AAGGGG", "GGAAGC", "CGCAAG", "AAAGGG", "TCAGGT"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["GGGCTC", "CGGGCA", "ACCCAC", "TGTATT", "CGAACA", "TTCAAT"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["GAACGA", "AGCCGC", "ACGGAA", "ATCGCT", "CGAAAA", "AGACAA"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["CTAAGT", "GCATAT", "AAGACT", "GTGTCA", "TAGATA", "GAGATG"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["TGAGTG", "TTCAGC", "GACACA", "GTTTTG", "TCGTTA", "TCCAGC"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["CTGATA", "CCAAGT", "TAAAGT", "AGATCC", "GAGCTA", "ATTAGC"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["AAAAAC", "GGTGTA", "CTCTAA", "CCATGC", "TGGGGG", "TGTCGT"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["TTATTA", "CACCGG", "AGGTGT", "GTAGGA", "CGAGGT", "TGTTTC"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["CGATAC", "GATTCC", "GTTCCT", "GACCAG", "CCACGG", "GCCTGT"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["TCTGCT", "CGTGGT", "GGCAAA", "TTTTCG", "AGCCCG", "GGTTGG"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["CTCGCT", "AGTCTC", "TCGCCT", "CGCGGA", "GGTTGT", "TTGTGG"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["GTCTAG", "ATTCCG", "GACTGA", "TCACCT", "CGATTG", "AATATT"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["GCTACC", "ACCAGG", "AGGTCG", "CTTATG", "AAGGGG", "TTGACA"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["CAACTT", "AGCCTC", "TATACT", "CCATTT", "GTGTCG", "TTTCGG"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["ACCATG", "CATGTT", "TCCTAC", "GCTACA", "CGAAGT", "TAGGTG"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["TGTCTA", "ACCGAT", "TGCAAC", "GCAACT", "TCCATA", "AGAGCT"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["CCGGAT", "CTTGGT", "TTTATG", "GTTCGC", "ATCATC", "ACACCT"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["TTGGTC", "ATTAAC", "GTATCG", "TTTTAA", "GGTCTG", "ATCTCT"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["CTGTCC", "GTGGTA", "CGCCGG", "TCTTGG", "CACCCG", "TACAAT"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["TCCGTT", "CGCGAA", "AAAATT", "GAGCGC", "TCCGTC", "TCTAAA"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["AGTTTT", "TCCGTT", "AAGTCA", "TATTCG", "ACATTA", "GTTCTG"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["CTAGTC", "ATGGGA", "GTGAGA", "GAATCA", "ACAACA", "GGTGAA"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["AGGGGT", "TAAGGG", "AGGACG", "GCACGC", "ACTAAG", "GCTGAG"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["CCTCCA", "ACATTC", "CGAAGT", "CAAAAC", "CCCACG", "AGAAAC"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["CACAGA", "GGCAGG", "CAAAAG", "TCAATA", "TTTGAG", "GTTGCA"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["GCCTGC", "GCACGC", "GCAACC", "CGGAGC", "TCTCCT", "TTCATA"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["CCTCAT", "CCCACG", "CAGGGA", "TTTACA", "AATCAA", "AGATAA"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["CCTCGT", "AGGGTG", "CAGCTA", "CCACTC", "CCGTAT", "CCGGCT"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["TGGGCA", "GATTAG", "CAATTC", "TCCTAC", "CGCTAT", "CAACGC"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["CCTAAA", "TGCGGT", "TGTAAA", "GTTTAG", "TTGGGG", "CCCTAC"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["GTGACA", "CCAATC", "ACACGA", "AGTAGC", "ACAAAA", "CAAGGG"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["TAGGGT", "TTTGAT", "TGACGG", "GCGGTA", "CAGAAA", "GGCTAT"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["CCCATG", "TTACGG", "TATCTG", "CCAGGT", "AAAAAC", "GGGTCC"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["TAGCCC", "TTGGCA", "CTTTCG", "GTCCCT", "GCTAAA", "GATAGG"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["TGACTG", "TGACCG", "CTTCTT", "GGGGGT", "GGCGAG", "CCGAGA"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["TCAGTG", "AACGCG", "GTGCTG", "ACCTGG", "TCACCG", "CGCTGA"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["GGCGCC", "ACTACA", "CTCTCC", "AATACC", "GAGACG", "TGAGGA"]
+        },
+        "species": "SIMIAN"
+    },
+    {
+        "payload": {
+            "dna": ["ATCTTA", "GCCTAC", "ACTGAA", "GTGGGC", "ACCCTA", "GCTCTG"]
+        },
+        "species": "SIMIAN"
+    }
+]

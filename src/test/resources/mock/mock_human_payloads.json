@@ -1,0 +1,416 @@
+[
+    {
+        "payload": {
+            "dna": ["GCTACC", "CAGGCT", "CAATAA", "CTTAGG", "GCATTC", "CTTGTG"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["GCCAGA", "AGACCA", "AGACTA", "TTGGAC", "AACGGT", "ATGCAC"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["GGCGGG", "GAGATT", "CGAAAT", "TTATGC", "CTCTCA", "AAGGTG"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["CTAATT", "TACCAA", "GTGCCA", "GTTGAC", "GCAACG", "TCGAGT"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["AACTGG", "GCTTAT", "TGGACT", "ACTTGG", "AAATTA", "ATTACA"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["CAGGTT", "TGCCCA", "TGAATT", "CAAGCA", "ACTAGG", "AATTGG"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["AGGGCC", "TGCCTG", "CACGCT", "GAGAAT", "TTCTAG", "GACGAA"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["TACGTT", "CCTAAG", "ACTCGG", "GTTGAC", "CTCTAG", "GCGGCT"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["GTTGCT", "TGGTAA", "TTCCGT", "GAGCAA", "AGTGAC", "AACCTA"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["AGTGGA", "GTAAAC", "GCTTCT", "TGATCT", "CGTCAC", "GGTTGA"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["AATGCG", "AGTAAT", "ATTATC", "TTGCGC", "GAAGTA", "CTGAGG"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["CGCAGT", "ACTCAT", "GTTAAG", "TCAACC", "CTTGAA", "ACAGTA"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["TTCTTA", "ATCTTG", "GCTTAT", "GCCGCA", "CAAAGG", "GCTGAT"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["TTACTA", "CTCCCA", "ATTGGG", "GATGGG", "TCCGTA", "GCCCAT"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["GCTGGT", "CAGTAC", "TCTAAG", "ATCGAG", "ATGACG", "ACTCAT"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["TGCCAG", "ATTCCG", "ATACCC", "TGCGAA", "AACTGG", "CGCCGA"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["CTCACC", "TGAACA", "ACCACC", "GGCTAA", "GCGCAC", "TAGCAA"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["GGGTAA", "GAAGGT", "AAGAAG", "GTCACG", "GGACAT", "AGCAGA"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["CGAGCA", "TGCCCG", "CGGCTT", "ATATAT", "ACTTAG", "CGAGTT"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["CTTGGA", "TAGGCC", "AACTAA", "TCGAGC", "CATTCG", "CATTTC"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["CCAGCC", "CGGTAA", "CTGGGT", "ATCATA", "GGGCCC", "GTCAAA"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["GACAGA", "GAGCTG", "CTCTAC", "TGGTAG", "ATAATT", "GCTACT"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["GTGAAT", "TACTTG", "AGTTCT", "CTAGTT", "GCTGTC", "TATCGC"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["CGGAGG", "GCTAGA", "CTCACA", "TGATAA", "TTAAAC", "GATAGA"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["GACAGA", "TCATAA", "ACCTGC", "GATCAT", "CTAGTT", "GGGTAC"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["GAACGC", "TTGTGA", "GTAGGT", "GCAAAC", "TCGCCT", "GTCACG"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["CCGCAT", "GGCCCG", "AGGAAA", "TTAGCA", "TAGCTG", "CTGAAA"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["AACGTC", "TGATCT", "TTCGAT", "CAGACC", "AGGCAA", "ATGTAG"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["GTGACT", "GGATAG", "CTAGAA", "ATGACG", "AAGTGG", "CAATTT"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["CAGGCA", "AGTAAA", "AGCGTT", "ATTTGT", "TCAATC", "CCAGCA"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["CCTAGA", "GCTACT", "GAATTG", "TAGCGA", "CACGCA", "TGTGCT"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["TCAATT", "CTGGGC", "CTGCGC", "GATGGT", "CCGTAG", "CCTTGA"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["CACGCC", "GGTGAG", "CGGTGG", "CTTCCT", "ACTTTA", "TAAAGT"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["GCCTGC", "AACATA", "CTGCAT", "GGCAGA", "GGTCTA", "CAGTCA"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["TTCTGC", "CAAGCG", "CGCCAG", "CCGTTC", "TCTCTC", "TTACCA"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["ACTTCG", "TGTGAG", "GATCCT", "ATCGAC", "ATTGAA", "AATAGC"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["CGACAA", "ATGCCC", "GACTCC", "ATACGG", "CAATGA", "AGTCGA"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["CAGCAT", "GAACTC", "GGCAGT", "CTAACC", "GAGCGT", "CACTAG"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["AGTCTC", "CTCGTT", "AAAGCT", "TCGTTT", "TTGCTC", "GTACGT"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["CGATGG", "CCTCAA", "ATTAAG", "GGCTTT", "TCTAGG", "ATGAAA"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["CATGAG", "AGGAGA", "CGGTAG", "TATCCA", "GCACTT", "ACGCAC"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["CGGGTA", "TTTATG", "CCCAAG", "TGGCCG", "TGGGCT", "GTCTGG"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["AATAGA", "AGGCGC", "ATTACA", "GGGTTG", "GGCCCA", "TTATCT"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["ACATGC", "CGTTTA", "CCACAC", "GAATAC", "AGCCAT", "TCGAGC"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["CAAGGC", "GAAAGA", "CTACGC", "ATGATA", "TCTTTG", "ACTGCG"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["GCTTAG", "CACCCA", "CGTGGA", "TAACTA", "GTTAGT", "AGGAGA"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["TGAGAG", "GCACGA", "TGTTCA", "TAGCGG", "GCCCTG", "TGTTTG"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["CATTTG", "ACTATA", "CACTGC", "AGGGCA", "TTCACA", "AACTAG"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["TTATGG", "ATACAA", "GAACAT", "ATTTGA", "CTTCTG", "CCAGCT"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["ATGTGC", "TGGACT", "CCTGTC", "CGGAGC", "TATATT", "GGTAGC"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["GATCAC", "CCCATC", "TTTAGG", "CGATAG", "TATCTT", "TCAGCG"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["GTCTTA", "TCCGAG", "CTAGAA", "TTAACC", "TGCAGG", "ACTCTT"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["TCCAAC", "CTTCGC", "ACTTAA", "CTCAAA", "TATAGG", "TGTTTC"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["CAACGC", "AGGCTG", "ATTGAC", "ACGGTC", "CCATCC", "ATTGAA"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["CGCTAC", "CGCGAT", "ACGCAA", "TCCACT", "AATGAT", "CCTAGT"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["ATGTGA", "GCCCAT", "GCCTTT", "GAGATT", "TCGTTA", "CTGTAC"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["CATATG", "CAGCAG", "ATCTGG", "CAAGAC", "CTCCCT", "ATGTTC"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["TCCTCC", "TTCATT", "TGCTTA", "AGAAAC", "CTGGCA", "GCAAGC"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["TTTCCT", "GCCACA", "AAGTAT", "TATAGC", "ATGCGT", "CCATGC"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["TGTGTC", "TACCAG", "CAAGTC", "TACATA", "TTTCTA", "GGGTGT"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["TGCATG", "GTTCAG", "CTCCAC", "GGCGGC", "TAACTA", "GGATCC"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["CTTAAC", "AAAGGA", "TGTCCG", "AGGTAA", "GGGTAG", "TTGACA"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["AACTTC", "TTGAAG", "TGTTGC", "GATCCA", "CAGTAC", "CCGGCC"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["AAATCC", "AGAACC", "GTGATG", "ATGTTG", "TACAAC", "CGGGAC"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["GGCTGC", "TTAGAA", "CAGGTT", "ACGAAA", "TTTAGT", "TTCCCG"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["GCGCCA", "TATGTC", "ACTAAC", "ATGCTG", "GCAGCT", "CTAGTG"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["CTCGCG", "ACCATC", "GAACTC", "ACCAAC", "CATCCG", "ACCTTG"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["TATAAC", "GTAACG", "TTCCAT", "CCGGTC", "CCGGCT", "GTGGGT"]
+        },
+        "species": "HUMAN"
+    },
+    {
+        "payload": {
+            "dna": ["AATGAT", "CGTCCG", "GCTGTT", "AACCTA", "ATAAGG", "TTTCTT"]
+        },
+        "species": "HUMAN"
+    }
+]
